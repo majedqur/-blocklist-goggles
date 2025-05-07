@@ -1,0 +1,24 @@
+{
+  "title": "Block Adult Sites",
+  "description": "Hides adult and NSFW content from Brave Search",
+  "schema_version": 1,
+  "version": "1.0",
+  "rules": [
+    {
+      "action": "BLOCK",
+      "value": "chaturbate.com"
+    },
+    {
+      "action": "BLOCK",
+      "value": "xvideos.com"
+    },
+    {
+      "action": "BLOCK",
+      "value": "xnxx.com"
+    },
+    {
+      "action": "BLOCK",
+      "value": "pornhub.com"
+    }
+  ]
+}
